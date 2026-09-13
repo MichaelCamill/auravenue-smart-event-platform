@@ -10,7 +10,7 @@
 ---
 
 ## 🌐 Live Demo & Zero-Barrier Evaluation
-- **Live Demo URL:** `https://auravenue-ai.vercel.app` *(or run locally via `npm run dev`)*
+- **Live Demo URL:** `https://michaelcamill.github.io/auravenue-smart-event-platform/` *(or run locally via `npm run dev`)*
 - **GitHub Repository:** `https://github.com/MichaelCamill/auravenue-smart-event-platform`
 - **Zero Authentication Walls:** Evaluators and attendees do **NOT** need to register, log in, or provide credit cards.
 - **1-Click Guest & Demo Presets:** Test all persona perspectives instantly via the top navigation bar:
@@ -227,7 +227,7 @@ We built AuraVenue AI to solve this end-to-end:
 🛡️ Organizer Executive Command Center: Real-time sensor telemetry, SOS incident response queue, and Gemini crowd bottleneck optimization
 
 Experience the Zero-Barrier Public Demo (No login, 1-Click Guest Presets):
-🔗 Live Demo: https://auravenue-ai.vercel.app
+🔗 Live Demo: https://michaelcamill.github.io/auravenue-smart-event-platform/
 📁 GitHub Repo: https://github.com/MichaelCamill/auravenue-smart-event-platform
 
 Big thanks to Google for Developers, Hack2skill, and HackuVerse for an incredible hack sprint!
